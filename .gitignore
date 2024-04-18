@@ -1,4 +1,4 @@
-.env
+#.env
 data/
 embedding_model/*
 !embedding_model/.ignore
